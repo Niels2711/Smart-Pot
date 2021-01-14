@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PlantName</string>
+    <string name="search_plant_name">Enter a plant name</string>
+    <string name="button_plant_name">Search</string>
+</resources>
